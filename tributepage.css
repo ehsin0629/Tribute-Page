@@ -1,0 +1,13 @@
+body{ 
+    background-image: linear-gradient(to bottom, #57a832, #32a6a8, #9e32a8);
+      color: white;
+      font-family: Sans-Sarif;
+      text-align: center;
+    }
+    
+    #image{
+      max-width: 100%;
+      height: auto;
+     display: block; 
+     margin: auto
+    }
